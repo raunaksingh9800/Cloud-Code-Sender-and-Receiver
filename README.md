@@ -26,7 +26,7 @@ This Python script streamlines the process of pushing code to a Firebase Storage
    - Place the JSON file in the same directory as the script.
 3. **Run the Script:**
    ```bash
-   python script.py <mode>
+   python main.py <mode>
    ```
    Replace `<mode>` with `Sender`, `Receiver`, `push`, or `get`.
 
