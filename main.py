@@ -8,7 +8,7 @@ firebase_admin.initialize_app(cred, {
     'storageBucket': '<your bucket link>.appspot.com'
 })
 
-arg = sys.argv[1]
+arg = sys.argv[1] ## store the arg given in the command line to a var called arg
 
 
 def init() :
