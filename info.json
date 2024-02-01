@@ -1,13 +1,4 @@
-{
-  "type": "service_account",
-  "project_id": "filetranfercode",
-  "private_key_id": "35145066371ad36b0a17c39a3e9cd2276bb1110e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFxkgr/t5mPA+E\ntc6NSvDm8EPhQnjKyOSDUXU3JZDWTEVpLC++DGKAodVQyAGDmL3hEUe2/ofovSw/\n8BviX8n5PPyz1FjG/i9KLGWehlGBcd3h2rSeDGzxWgKZP3zpsilzxETyBAH+NStF\nlvCry/n7AhKUZr65R/VDq3hq1feR6S/N7Wvr75x1xc6xPINC+b2mszceE/L3uA23\ndJ0mPcfPunSsIoaEEElDEqbvbrVugSV+BsR8bauo/qGkCKQ4+zkm2eu8f4J9D6ui\n3XuIiRZB84wjbbliXBQibkyPIGKzsZt6y23ut+rbOFdVb53zeNawXFMjzleP9exs\ncSP6C5Y1AgMBAAECggEAMBcVhAsqiXn3vQmXQtCS8NjB7LOE2yxLsmm7gpASHqW3\nqAn8Ru5MgmI3lDe59IWOwDw7L7JHGm7rZFWudhZcLoxnlxOeja6Pka3nfMtE5OCq\n9wj+68JyOCKuqJRhO5MclL+IE0ApuuYzUi3Qcjm8XI5ltauhGzz11MFMW9AQ7au0\nS/RO5zRVfDLoyGlK7oUgv/5i5jUGq6kLHpMejcxZXBoIOFPyjQXcIVxUuXcKnsTn\naYomVeuGkUaXRw44GVKFOnjs3kCgAbCRaQJ6UZxbKRjvnvWj7MobgN2g3HadukVA\nBBAtVJvQyxqGGgoBOYO5nCjFeJnPW5jUxeLJ/eN6OQKBgQDiInFYR3SaleDkVVJk\nBn1EKq+JcVaYl4yghV25M05DMXaT+5A7/MdX4dNcdPpl3qotdSAJUyPyFpEPgGYn\nHi7wwcsihWfkRhkxoplAoqHwaT1bt0viYoBrjP8LiEOBb4CQHHWGy6aeOYKeoI04\nCRqs1prFgI4Svv/QsVvn+yHzHQKBgQDf5P5yT3mw5ZpR+VdsZrDVHUu7xRYs+GjY\nPl70KM0teBPZAU8ZaF2/e+YciHlxKOn9iKQpajcFoOpoRMq7WJBo2F3IIct66nl2\nAPWHXiKKwKIpRn4sJodgGeFdVsrJyjfX1y+N+XAlUbEC5T6vOb9U6Mxh9uDcw49+\njVmt3b1r+QKBgQCayQ6iaY7D/VFJmalitBpsXXd38a9flWR5v7AOg7LPRX0v/+KT\nXQwp+HaPc7atogMESIacO1+AZrf2T2Ic5okk3NGpmH0rgFvgYLbbyjZkc/S+4bE8\njUXv2Dv/bc8fOu5aNlCv6pfq99yTrbvcHkc3BVI9XChjZn9+HtiU6o4rdQKBgAcA\nANiQFYzrUMzZT9tqxoKTPOfs/ImBZr3EDXHyyJ9wTqaNPOzdb3jqJcKkna9lCRPN\nLtzAnmHFqy6BYBlFZpZwlVYJgHQiWpPO6d5GmiveY/OIaa91sOvXQ02IxiRS9zX/\nW1REBTaVfERL6I7P7mR4NtOlRViBoL3jK3edJCv5AoGAKdCrtSk0ZTqGX8pcfZE1\nq5L9abZ9ImzxhEDWyUR8IgsAEUVzY9DyUkoI4UW8eELiKRXoH+SuOvQzXxhAUgVh\nimORAbdjzfGdZfwpgHG2JZ/gpvfW3ACUiLCCWKeTcMDXLgaLyVFgpgDTzn4p9LSd\nkn9V9X7A8gR0xBaOptyiIsA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-xuinx@filetranfercode.iam.gserviceaccount.com",
-  "client_id": "116497340784532017596",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xuinx%40filetranfercode.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+Your firebase Admin SDK Key json file 
+
+guide here:
+https://clemfournier.medium.com/how-to-get-my-firebase-service-account-key-file-f0ec97a21620
