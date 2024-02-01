@@ -34,6 +34,3 @@ This Python script streamlines the process of pushing code to a Firebase Storage
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
-**## License**
-
-[Specify the license under which you're releasing the code]
