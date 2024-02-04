@@ -4,7 +4,9 @@ Python Script for Pushing and Retrieving Code to/from Firebase Storage
 ## Overview
 
 This Python script streamlines the process of pushing code to a Firebase Storage bucket, retrieving it on another device, and running it, with optional compilation for different programming languages. It's ideal for sharing and executing code across multiple devices seamlessly.
-
+## Clone The Repo
+ 
+ `git clone https://github.com/raunaksingh9800/The-Coin-Flip-Frenzy](https://github.com/raunaksingh9800/Cloud-Code-Sender-and-Receiver`
 ## Screenshot
 ### Sender
 ![alt text](https://github.com/raunaksingh9800/Cloud-Code-Sender-and-Receiver/blob/main/screenshots/Sender.png?raw=true)
